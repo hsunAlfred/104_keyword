@@ -203,8 +203,8 @@ class OneOFour:
 
 if __name__ == '__main__':
     try:
-        kwd, maxPages = '軟體', "1"
-        #kwd, maxPages = sys.argv[1:]
+        #kwd, maxPages = '軟體', "1"
+        kwd, maxPages = sys.argv[1:]
     except Exception as e:
         print(e)
     else:
