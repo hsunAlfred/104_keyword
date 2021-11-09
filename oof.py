@@ -10,6 +10,7 @@ import time
 import re
 from pathlib import Path
 from random import randint
+import sys
 
 
 class OneOFour:
