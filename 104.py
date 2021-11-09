@@ -152,7 +152,7 @@ if __name__ == '__main__':
             res = OneOFour().search(kwd, maxPages=int(maxPages))
             print(f'\n{res}')
         else:
-            print("""請在cmd或bash使用python 104.py arg1(關鍵字) arg2(前n頁)
+            print("""在命令列使用python 104.py arg1(關鍵字) arg2(前n頁)
                     ex. python 104.py 軟體 3
                     代表到104爬取關鍵字為軟體的前3頁
                 """)
