@@ -1,0 +1,24 @@
+{"data":{"corpImageRight":{"corpImageRight":{"imageUrl":"","link":""}},"header":{"corpImageTop":{"imageUrl":"","link":""},"jobName":"Software Engineer (EDA) 軟體工程師","appearDate":"2021\/11\/03","custName":"至達科技股份有限公司","custUrl":"https:\/\/www.104.com.tw\/company\/1a2x6bld5n","applyDate":"","analysisType":1,"analysisUrl":"\/\/www.104.com.tw\/jobs\/apply\/analysis\/77y3h","isSaved":false,"isApplied":false},"contact":{"hrName":"杜先生","email":"","visit":"","phone":"","other":"","reply":"合適者將於7個工作天內主動聯繫，不合適者將不另行通知","suggestExam":false},"environmentPic":{"environmentPic":[{"thumbnailLink":"https:\/\/static.104.com.tw\/b_profile\/cust_picture\/7915\/130000000157915\/env\/s_962627717425922384.jpg?v=20210915223052","link":"https:\/\/static.104.com.tw\/b_profile\/cust_picture\/7915\/130000000157915\/env\/l_962627717425922384.jpg?v=20210915223052","description":""}],"corpImageBottom":{"imageUrl":"","link":""}},"condition":{"acceptRole":{"role":[{"code":1,"description":"上班族"},{"code":2,"description":"應屆畢業生"}],"disRole":{"needHandicapCompendium":false,"disability":[]}},"workExp":"不拘","edu":"碩士以上","major":["資訊工程相關","電機電子工程相關"],"language":[{"language":"英文","ability":"聽 \/中等、說 \/中等、讀 \/中等、寫 \/中等"}],"localLanguage":[],"specialty":[{"code":"12001001007","description":"Linux"},{"code":"12001002010","description":"STL"},{"code":"12001003008","description":"C"},{"code":"12001003010","description":"C++"},{"code":"12001003057","description":"TCL"},{"code":"12004001014","description":"EDA"},{"code":"12004001032","description":"RTL"},{"code":"12004001037","description":"Verilog"}],"skill":[{"code":"11009002009","description":"軟體品質與保證"},{"code":"11009004001","description":"功能測試(function test)"},{"code":"11009004004","description":"問題追蹤處理(Bug tracking)"},{"code":"11009004011","description":"壓力測試(stress test)"},{"code":"11009005001","description":"軟體程式設計"}],"certificate":[],"driverLicense":[],"other":"The following items are plus:
+* Experience in EDA tool development
+* Strong C\/C++
+* Knowledge of Data Structures and Algorithms
+* Familiar with Linux environment"},"welfare":{"tag":["年終獎金"],"welfare":"1. 保障年薪14個月 (全職人員)
+2. 年度調薪
+3. 個人績效獎金
+","legalTag":["勞保","健保","特別休假","員工體檢"]},"jobDetail":{"jobDescription":"歡迎電子設計自動化(EDA)背景，
+對 C++ 大型軟體開發有興趣的工程師加入至達科技。
+
+1. EDA 核心演算法開發。包含
+    floorplanning
+    placement
+    RTL & physical synthesis 
+    timing analysis & optimization
+    clock tree synthesis & optimization
+    routing
+2. 採用 scrum 開發模式，並有 CI\/CD 流程。
+3. 公司產品主要以 C++ 開發，執行平台 Linux。
+4. 大型軟體專案，規模超過 40 萬行程式碼。
+5. 開發採用 Modern C++ ，並有定期讀書會，提升程式功力。
+6. 工作內容包含軟體效能改善，減少記憶體使用，加快程式運作。
+
+","jobCategory":[{"code":"2007001004","description":"軟體設計工程師"},{"code":"2007001012","description":"演算法開發工程師"}],"salary":"年薪1,500,000元以上","salaryMin":1500000,"salaryMax":9999999,"salaryType":60,"jobType":1,"workType":[],"addressNo":"6001006001","addressRegion":"新竹市","addressDetail":"關新路27號18樓之2","industryArea":"","longitude":"121.0179872","latitude":"24.7847585","manageResp":"不需負擔管理責任","businessTrip":"無需出差外派","workPeriod":"日班","vacationPolicy":"週休二日","startWorkingDay":"不限","hireType":0,"delegatedRecruit":"","needEmp":"1人","landmark":"","remoteWork":null},"switch":"on","custLogo":"https:\/\/static.104.com.tw\/b_profile\/cust_picture\/7915\/130000000157915\/logo.png?v=20210915223052","postalCode":"300","closeDate":"2021-08-13","industry":"其他半導體相關業","custNo":"130000000157915","reportUrl":"https:\/\/www.104.com.tw\/question_admin\/reaction.cfm?j=475149743f7350283b49432647453d6643f4149723b3d456e434941242424242314b41677513j55","industryNo":"1001006003","employees":"16人","chinaCorp":false},"metadata":{"enableHTML":false,"hiddenBanner":false}}
