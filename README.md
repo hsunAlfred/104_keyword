@@ -7,7 +7,7 @@ python 104.py arg1(關鍵字) arg2(前n頁)
 ```
 eg. 
 ```
-python 104.py 軟體 3
+python oof.py 軟體 3
 ```
 代表到104爬取關鍵字為軟體的前3頁
 
