@@ -3,7 +3,7 @@
 ### 使用方式
 在命令列使用
 ```
-python 104.py arg1(關鍵字) arg2(前n頁)
+python oof.py arg1(關鍵字) arg2(前n頁)
 ```
 eg. 
 ```
